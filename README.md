@@ -16,4 +16,8 @@ This project is a Python web scraper that retrieves prices of fridges from eBay 
 - BeautifulSoup library (`pip install beautifulsoup4`)
 - Requests library (`pip install requests`)
 
+## Usage
+- Feel free to customize and enhance the the project to your liking
+  
+
 
